@@ -66,6 +66,3 @@ if(isset($_POST['submit'])){
 </form>
 </body>
 </html>
-<!--<input type="text" name="Result" class="numbers" value="--><!--placeholder="Результат" readonly>-->
-
-<!--value="-->
